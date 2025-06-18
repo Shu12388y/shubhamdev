@@ -1,0 +1,62 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+.next/static/
+
+# Vercel
+.vercel/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Build outputs
+dist/
+build/
+coverage/
+coverage-final.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.swp
+
+# Local uploads
+uploads/
+public/uploads/
+
+# Storybook
+.storybook-out/
+storybook-static/
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
